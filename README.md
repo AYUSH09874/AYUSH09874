@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Cyber security , DSA , MERN**
+- 🌱 I’m currently learning **Cyber security , DSA , FLASK, DJANGO**
 
-- 💬 Ask me about **PYTHON , CPP , DSA , HTML , CSS**
+- 💬 Ask me about **PYTHON , DSA , HTML , CSS**
 
 - 📫 How to reach me **singhayush.osm@gmail.com**
 
